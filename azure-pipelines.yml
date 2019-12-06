@@ -39,6 +39,6 @@ steps:
   displayName: 'Publish NuGet package'
   inputs:
     command: push
-    publishVstsFeed: 'fy'
+    publishVstsFeed: 'noahzemp777'
     allowPackageConflicts: true
   condition: succeeded()
